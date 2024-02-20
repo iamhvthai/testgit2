@@ -8,8 +8,10 @@ int main(){
     cout<<n;
     cout<<"Hi!";
     for(int i = 0; i<10; i++){
-        cout<<n[i];
+        cout<<n[i]<<endl;
     }
     return 0;
 }
 //add row
+//add row 2
+
